@@ -10,5 +10,9 @@
     {
         "package": "socialroulette",
         "url": "https://github.com/hoehleatsu/socialroulette"
+    },
+    {
+        "package": "quantileCI",
+        "url": "https://github.com/hoehleatsu/quantileCI"
     }
 ]
