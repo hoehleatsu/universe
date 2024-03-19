@@ -1,18 +1,18 @@
 [
     {
         "package": "binomSamSize",
-        "url": "https://github.com/hoehleatsu/binomSamSize"
+        "url": "https://github.com/mhoehle/binomSamSize"
     },
     {
         "package": "birthdayproblem",
-        "url": "https://github.com/hoehleatsu/birthdayproblem"
+        "url": "https://github.com/mhoehle/birthdayproblem"
     },
     {
         "package": "socialroulette",
-        "url": "https://github.com/hoehleatsu/socialroulette"
+        "url": "https://github.com/mhoehle/socialroulette"
     },
     {
         "package": "quantileCI",
-        "url": "https://github.com/hoehleatsu/quantileCI"
+        "url": "https://github.com/mhoehle/quantileCI"
     }
 ]
